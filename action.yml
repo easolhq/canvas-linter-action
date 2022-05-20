@@ -1,0 +1,9 @@
+name: 'Easol Canvas Linter'
+description: 'Validates Easol themes to be used when building sites'
+author: Easol
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  color: 'white'
+  icon: 'terminal'
